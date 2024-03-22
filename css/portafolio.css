@@ -1,0 +1,15 @@
+.bgProyectos{background-image:url(../imagenes/bg_proyecto.jpg);background-repeat:no-repeat;background-position:right top;height:200px;width:940px;_width:927px;background-color:#b32976;position:relative;overflow:hidden;}
+.bgProyectos img{display:block;height:148px;padding:51px 0 0;position:absolute;right:27px;width:491px;}
+.bgProyectos .ContPro{padding:29px 0 0 20px;margin-right:540px;}
+.bgProyectos .ContPro p{color:#fff;}
+.bgProyectos .ContPro h6{color:#fff;font-size:18px;font-style:normal;font-weight:bold;text-decoration:none;line-height:18px;}
+.bgProyectos .ContPro p strong{color:#fff;}
+.bgProyectos .ContPro a{color:#bae100;}
+.bgProyectos .ContPro a:hover{color:#f39e01;}
+.bgProyectos span{background-image:url(../imagenes/credit-idc.gif);background-position:0 0;background-repeat:no-repeat;display:inline-block;height:16px;margin-bottom:-6px;padding-top:3px;width:175px;}
+#tab_container .tab_content{display:inline-block;}
+ul.tabs{margin:0;padding:0 0 0 50px;list-style:none;height:26px;font-size:11px;overflow:hidden;}
+ul.tabs li{float:left;margin:0;padding:0;height:26px;line-height:26px;border:1px solid #999;border-left:none;margin-bottom:-1px;overflow:hidden;position:relative;background:#e0e0e0;display: block;  border-radius: 10px 10px 0 0;}
+ul.tabs li a{text-decoration:none;color:#999;display:block;padding:0 20px;border:1px solid #fff;outline:none;}
+ul.tabs li a:hover{background:#ccc;}
+html ul.tabs li.active,html ul.tabs li.active a,html ul.tabs li.active a:hover{background:#fff;border-bottom:1px solid #fff;color:#906;}
